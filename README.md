@@ -31,7 +31,7 @@ Interstellar → Sci-Fi Space Drama Time Travel
 
 We convert text into numerical vectors using:
 
-TF-IDF Vectorizer
+CountVectorizer
 
 This transforms movies into vectors so ML can process them.
 
