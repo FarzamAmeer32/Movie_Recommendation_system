@@ -3,7 +3,6 @@ import random
 import requests
 import streamlit as st
 import streamlit.components.v1 as components
-#
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
