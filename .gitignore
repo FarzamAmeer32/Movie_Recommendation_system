@@ -1,1 +1,3 @@
-
+/Data_file
+*.pkl
+/.venv
